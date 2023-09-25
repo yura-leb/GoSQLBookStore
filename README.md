@@ -1,1 +1,1 @@
-# GoSQLBookStore
+# GoMySQLBookStore
